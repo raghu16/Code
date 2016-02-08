@@ -1,0 +1,58 @@
+html
+{background: white;
+
+  border-top: 65px solid #564581;
+}
+
+/***********************************************
+Body styling
+***********************************************/
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px 20px;
+  font-size: 1.4em;
+  line-height: 1.6em;
+  font-family: 'Roboto', sans-serif;
+  color: #aaa;
+  font-weight: 300;
+}
+
+.centered {
+  text-align: right;
+}
+
+/***********************************************
+Image styling
+***********************************************/
+img {
+  border-radius: 5%;
+  max-width: 400px;
+}
+
+/***********************************************
+Headline styling
+***********************************************/
+h1 {
+  font-size: 1.5em;
+  line-height: .5em;
+  color: #564581;
+}
+
+h2 {
+  font-size: 1em;
+  line-height: 1em;
+  font-style: oblique;
+  color: #aaa;
+}
+
+h3 {
+  line-height: 1em;
+  font-weight: normal;
+}
+
+h4 {
+  margin-top: 20px;
+  font-weight: 500;
+  color: #564581;
+}
